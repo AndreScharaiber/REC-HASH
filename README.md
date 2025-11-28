@@ -11,6 +11,8 @@ Este repositório contém os resultados da implementação e análise experiment
 
 O objetivo principal é avaliar o impacto de diferentes funções de hashing e variações no fator de carga (`α = n/m`) sobre o desempenho e a distribuição das chaves.
 
+**LINK PARA O YOUTUBE:**
+
 ## 1. Contexto do Projeto
 
 | Tópico | Descrição | 
