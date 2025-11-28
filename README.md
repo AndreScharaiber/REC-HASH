@@ -80,5 +80,6 @@ Para uma revisão completa, os dados brutos estão disponíveis em:
 
 
   5. **Análise dos Gráficos:**
+<img width="1600" height="800" alt="grafico1" src="https://github.com/user-attachments/assets/a0a507d7-63fc-4619-9a10-7318d1369895" />
 
- À atualizar: 
+<img width="1600" height="800" alt="grafico2" src="https://github.com/user-attachments/assets/0b5263a5-3a09-4f8d-8924-7fc9755fb1ff" />
